@@ -32,7 +32,7 @@ fun Names(names:Array<String>):Int {
 }
 //3. You are creating a robot to serve drinks at a party. The robot is required to
 //serve a glass of milk for guests under the age of 6. For guests under the age of
-//15 but over the age of 6, the robot serves a bottle of fanta orange. Everybody
+//15 but over the age f 6, the robot serves a bottle of fanta orange. Everybody
 //else gets a bottle of coca cola. Create a function that will make these
 //decisions, printing out the name of the drink each person gets according to
 //their age. (2pts)
